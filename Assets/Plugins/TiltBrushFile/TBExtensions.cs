@@ -2,7 +2,8 @@
 using System.IO;
 
 using UnityEngine;
-using Ionic.Zip;
+using ICSharpCode.SharpZipLib.Core;
+using ICSharpCode.SharpZipLib.Zip;
 
 namespace TiltBrushFile
 {

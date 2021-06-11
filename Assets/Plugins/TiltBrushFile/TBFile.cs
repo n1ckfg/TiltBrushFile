@@ -3,7 +3,8 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using Ionic.Zip;
+using ICSharpCode.SharpZipLib.Core;
+using ICSharpCode.SharpZipLib.Zip;
 
 using uint16 = System.UInt16;
 using uint32 = System.UInt32;
